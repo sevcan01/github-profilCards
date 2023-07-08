@@ -1,5 +1,5 @@
 # github-profilCards
-## using HTML CSS Java Script and Axios
+## used HTML CSS Java Script and Axios
 
 ### screen
 ![](github.gif)
